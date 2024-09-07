@@ -6,3 +6,109 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="凤凰" ,凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title= "国内", CCTV-1 综合
+http://sweetown.fun:4000/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title= "国内", CCTV-2 财经
+http://sweetown.fun:4000/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title= "国内", CCTV-3 综艺
+http://sweetown.fun:4000/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title= "国内", CCTV-4 中文国际
+http://sweetown.fun:4000/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title= "国内", CCTV-5 体育
+http://sweetown.fun:4000/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title= "国内", CCTV-6 电影
+http://sweetown.fun:4000/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title= "国内", CCTV-7 国防军事
+http://sweetown.fun:4000/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title= "国内", CCTV-8 电视剧
+http://sweetown.fun:4000/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title= "国内", CCTV-9 纪录
+http://sweetown.fun:4000/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title= "国内", CCTV-10 科教
+http://sweetown.fun:4000/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title= "国内", CCTV-11 戏曲
+http://sweetown.fun:4000/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title= "国内", CCTV-12 社会与法
+http://sweetown.fun:4000/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title= "国内", CCTV-13 新闻
+http://sweetown.fun:4000/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title= "国内", CCTV-14 少儿
+http://sweetown.fun:4000/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title= "国内", CCTV-15 音乐
+http://sweetown.fun:4000/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title= "国内", CCTV-16 奥林匹克
+http://sweetown.fun:4000/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title= "国内", CCTV-17 农业农村
+http://sweetown.fun:4000/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title= "国内", CCTV-5+ 体育赛事
+http://sweetown.fun:4000/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title= "国内", CCTV-4K 超高清
+https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title= "国内", 北京卫视
+http://sweetown.fun:4000/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title= "国内", 东方卫视
+http://sweetown.fun:4000/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title= "国内", 湖南卫视
+http://sweetown.fun:4000/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title= "国内", 江苏卫视
+http://sweetown.fun:4000/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title= "国内", 浙江卫视
+http://sweetown.fun:4000/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title= "国内", 黑龙江卫视
+http://sweetown.fun:4000/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title= "国内", 吉林卫视
+http://sweetown.fun:4000/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title= "国内", 辽宁卫视
+http://sweetown.fun:4000/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title= "国内", 河北卫视
+http://sweetown.fun:4000/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title= "国内", 天津卫视
+http://sweetown.fun:4000/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title= "国内", 山东卫视
+http://sweetown.fun:4000/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title= "国内", 安徽卫视
+http://sweetown.fun:4000/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title= "国内", 河南卫视
+http://sweetown.fun:4000/rtp/239.3.1.27:8128
+#EXTINF:-1 group-title= "国内", 湖北卫视
+http://sweetown.fun:4000/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title= "国内", 江西卫视
+http://sweetown.fun:4000/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title= "国内", 东南卫视
+http://sweetown.fun:4000/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title= "国内", 广东卫视
+http://sweetown.fun:4000/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title= "国内", 深圳卫视
+http://sweetown.fun:4000/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title= "国内", 广西卫视
+http://sweetown.fun:4000/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title= "国内", 海南卫视
+http://sweetown.fun:4000/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title= "国内", 四川卫视
+http://sweetown.fun:4000/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title= "国内", 重庆卫视
+http://sweetown.fun:4000/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title= "国内", 贵州卫视
+http://sweetown.fun:4000/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title= "国内", 云南卫视
+http://sweetown.fun:4000/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title= "国内", 厦门卫视
+http://sweetown.fun:4000/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title= "国内", 山西卫视
+http://sweetown.fun:4000/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title= "国内", 陕西卫视
+http://sweetown.fun:4000/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title= "国内", 甘肃卫视
+http://sweetown.fun:4000/rtp/239.3.1.49:8188
+#EXTINF:-1 group-title= "国内", 宁夏卫视
+http://sweetown.fun:4000/rtp/239.3.1.46:8124
+#EXTINF:-1 group-title= "国内", 内蒙古卫视
+http://sweetown.fun:4000/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title= "国内", 青海卫视
+http://sweetown.fun:4000/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title= "国内", 延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 group-title= "国内", 新疆卫视
+http://sweetown.fun:4000/rtp/239.3.1.48:8160
+#EXTINF:-1 group-title= "国内", 兵团卫视
+http://sweetown.fun:4000/rtp/239.3.1.144:4120
