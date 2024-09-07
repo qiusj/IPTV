@@ -6,43 +6,43 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="凤凰" ,凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title= "央视", CCTV-1
+#EXTINF:-1 group-title= "央视", CCTV-1 综合
 http://sweetown.fun:4000/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title= "央视", CCTV-2
+#EXTINF:-1 group-title= "央视", CCTV-2 财经
 http://sweetown.fun:4000/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title= "央视", CCTV-3
+#EXTINF:-1 group-title= "央视", CCTV-3 综艺
 http://sweetown.fun:4000/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title= "央视", CCTV-4
+#EXTINF:-1 group-title= "央视", CCTV-4 中文国际
 http://sweetown.fun:4000/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title= "央视", CCTV-5
+#EXTINF:-1 group-title= "央视", CCTV-5 体育
 http://sweetown.fun:4000/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title= "央视", CCTV-6
+#EXTINF:-1 group-title= "央视", CCTV-6 电影
 http://sweetown.fun:4000/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title= "央视", CCTV-7
+#EXTINF:-1 group-title= "央视", CCTV-7 国防军事
 http://sweetown.fun:4000/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title= "央视", CCTV-8
+#EXTINF:-1 group-title= "央视", CCTV-8 电视剧
 http://sweetown.fun:4000/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title= "央视", CCTV-9
+#EXTINF:-1 group-title= "央视", CCTV-9 纪录
 http://sweetown.fun:4000/rtp/239.3.1.62:8112
-#EXTINF:-1 group-title= "央视", CCTV-10
+#EXTINF:-1 group-title= "央视", CCTV-10 科教
 http://sweetown.fun:4000/rtp/239.3.1.63:8116
-#EXTINF:-1 group-title= "央视", CCTV-11
+#EXTINF:-1 group-title= "央视", CCTV-11 戏曲
 http://sweetown.fun:4000/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title= "央视", CCTV-12
+#EXTINF:-1 group-title= "央视", CCTV-12 社会与法
 http://sweetown.fun:4000/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title= "央视", CCTV-13
+#EXTINF:-1 group-title= "央视", CCTV-13 新闻
 http://sweetown.fun:4000/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title= "央视", CCTV-14
+#EXTINF:-1 group-title= "央视", CCTV-14 少儿
 http://sweetown.fun:4000/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title= "央视", CCTV-15
+#EXTINF:-1 group-title= "央视", CCTV-15 音乐
 http://sweetown.fun:4000/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title= "央视", CCTV-16
+#EXTINF:-1 group-title= "央视", CCTV-16 奥林匹克
 http://sweetown.fun:4000/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title= "央视", CCTV-17
+#EXTINF:-1 group-title= "央视", CCTV-17 农业农村
 http://sweetown.fun:4000/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title= "央视", CCTV-5+
+#EXTINF:-1 group-title= "央视", CCTV-5+ 体育赛事
 http://sweetown.fun:4000/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title= "央视", CCTV-4K
+#EXTINF:-1 group-title= "央视", CCTV-4K 超高清
 https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title= "地方", 北京卫视
 http://sweetown.fun:4000/rtp/239.3.1.241:8000
